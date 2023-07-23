@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/src/main/java/com/example/TeamMicroservice/Controller/TeamController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/src/main/java/com/example/TeamMicroservice/Service/MyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/src/main/java/com/example/TeamMicroservice/TeamMicroserviceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/src/main/java/com/example/TeamMicroservice/model/Team.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TeamMicroservice/TeamMicroservice/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-gateway/api-gateway/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/java/com/example/ipl/dashboard/IplDashboardApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/java/com/example/ipl/dashboard/TeamProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/java/com/example/ipl/dashboard/controller/CircuitBreakerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/java/com/example/ipl/dashboard/controller/TeamController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/java/com/example/ipl/dashboard/model/Team.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ipl-dashboard/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/example/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/eureka.dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
